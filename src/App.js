@@ -9,6 +9,7 @@ function App() {
         <p>
 	  This is my super awesome app that I can control however I want! yay!
     Hoooray!
+    It is live for all to see!
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
