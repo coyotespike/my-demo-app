@@ -7,6 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+	  This is my super awesome app that I can control however I want! yay!
+    Hoooray!
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
